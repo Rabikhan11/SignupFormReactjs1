@@ -1,0 +1,106 @@
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .Text {
+    font-size: 22px;
+    color: rgb(25, 6, 77);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  
+  .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .form {
+    font-family: serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .form input {
+    margin-left: 10px;
+  }
+  
+  .F-name,
+  .L-name,
+  .Email,
+  .Password,
+  .Gender,
+  .Date,
+  .course,
+  .Number,
+  .Color,
+  .country {
+    margin-bottom: 10px;
+  }
+  
+  .Email input {
+    margin-left: 40px;
+  }
+  
+  .Password input {
+    margin-left: 17px;
+  }
+  
+  .Date input {
+    margin-left: 45px;
+  }
+  
+  .Number input {
+    margin-left: 35px;
+  }
+  
+  .Color input {
+    margin-left: 37px;
+    margin-bottom: 10px;
+  }
+  
+  #main {
+    margin-left: 23px;
+  }
+  
+  #m-f {
+    padding-right: 25px;
+  }
+  
+  #dev {
+    padding-right: 27px;
+  }
+  
+  .dev2 {
+    padding-left: 10px;
+  }
+  
+  #f-submit {
+    height: 35px;
+    width: 100px;
+    font-family: serif;
+    font-size: 15px;
+    color: #fff;
+    background: rgb(2, 0, 36);
+    outline: #03034b;
+    background: #03034b;
+  }
+  
+  .submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  #Male {
+    padding-left: 10px;
+  }
+  
